@@ -1,0 +1,2693 @@
+fileFormatVersion: 2
+guid: f6f008ecc677643448b571f58a56883f
+timeCreated: 1525809111
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_0
+    21300002: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_1
+    21300004: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_2
+    21300006: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_3
+    21300008: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_4
+    21300010: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_5
+    21300012: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_6
+    21300014: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_7
+    21300016: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_8
+    21300018: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_9
+    21300020: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_10
+    21300022: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_11
+    21300024: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_12
+    21300026: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_13
+    21300028: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_14
+    21300030: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_15
+    21300032: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_16
+    21300034: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_17
+    21300036: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_18
+    21300038: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_19
+    21300040: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_20
+    21300042: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_21
+    21300044: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_22
+    21300046: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_23
+    21300048: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_24
+    21300050: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_25
+    21300052: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_26
+    21300054: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_27
+    21300056: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_28
+    21300058: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_29
+    21300060: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_30
+    21300062: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_31
+    21300064: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_32
+    21300066: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_33
+    21300068: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_34
+    21300070: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_35
+    21300072: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_36
+    21300074: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_37
+    21300076: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_38
+    21300078: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_39
+    21300080: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_40
+    21300082: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_41
+    21300084: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_42
+    21300086: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_43
+    21300088: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_44
+    21300090: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_45
+    21300092: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_46
+    21300094: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_47
+    21300096: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_48
+    21300098: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_49
+    21300100: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_50
+    21300102: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_51
+    21300104: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_52
+    21300106: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_53
+    21300108: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_54
+    21300110: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_55
+    21300112: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_56
+    21300114: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_57
+    21300116: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_58
+    21300118: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_59
+    21300120: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_60
+    21300122: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_61
+    21300124: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_62
+    21300126: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_63
+    21300128: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_64
+    21300130: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_65
+    21300132: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_66
+    21300134: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_67
+    21300136: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_68
+    21300138: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_69
+    21300140: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_70
+    21300142: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_71
+    21300144: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_72
+    21300146: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_73
+    21300148: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_74
+    21300150: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_75
+    21300152: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_76
+    21300154: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_77
+    21300156: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_78
+    21300158: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_79
+    21300160: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_80
+    21300162: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_81
+    21300164: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_82
+    21300166: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_83
+    21300168: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_84
+    21300170: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_85
+    21300172: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_86
+    21300174: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_87
+    21300176: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_88
+    21300178: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_89
+    21300180: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_90
+    21300182: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_91
+    21300184: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_92
+    21300186: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_93
+    21300188: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_94
+    21300190: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_95
+    21300192: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_96
+    21300194: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_97
+    21300196: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_98
+    21300198: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_99
+    21300200: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_100
+    21300202: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_101
+    21300204: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_102
+    21300206: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_103
+    21300208: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_104
+    21300210: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_105
+    21300212: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_106
+    21300214: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_107
+    21300216: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_108
+    21300218: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_109
+    21300220: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_110
+    21300222: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_111
+    21300224: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_112
+    21300226: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_113
+    21300228: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_114
+    21300230: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_115
+    21300232: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_116
+    21300234: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_117
+    21300236: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_118
+    21300238: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_119
+    21300240: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_120
+    21300242: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_121
+    21300244: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_122
+    21300246: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_123
+    21300248: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_124
+    21300250: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_125
+    21300252: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_126
+    21300254: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_127
+    21300256: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_128
+    21300258: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_129
+    21300260: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_130
+    21300262: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_131
+    21300264: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_132
+    21300266: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_133
+    21300268: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_134
+    21300270: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_135
+    21300272: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_136
+    21300274: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_137
+    21300276: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_138
+    21300278: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_139
+    21300280: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_140
+    21300282: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_141
+    21300284: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_142
+    21300286: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_143
+    21300288: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_144
+    21300290: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_145
+    21300292: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_146
+    21300294: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_147
+    21300296: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_148
+    21300298: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_149
+    21300300: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_150
+    21300302: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_151
+    21300304: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_152
+    21300306: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_153
+    21300308: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_154
+    21300310: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_155
+    21300312: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_156
+    21300314: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_157
+    21300316: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_158
+    21300318: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_159
+    21300320: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_160
+    21300322: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_161
+    21300324: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_162
+    21300326: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_163
+    21300328: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_164
+    21300330: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_165
+    21300332: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_166
+    21300334: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_167
+    21300336: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_168
+    21300338: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_169
+    21300340: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_170
+    21300342: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_171
+    21300344: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_172
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_0
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5864
+        width: 33
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_1
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 5927
+        width: 174
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_2
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 5828
+        width: 126
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_3
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 5822
+        width: 141
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_4
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 5921
+        width: 126
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_5
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 5888
+        width: 165
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5753
+        width: 163
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_7
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5438
+        width: 129
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_8
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 5645
+        width: 135
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_9
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 5747
+        width: 129
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 5717
+        width: 168
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_11
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 5690
+        width: 172
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_12
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 5591
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_13
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 5600
+        width: 429
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5535
+        width: 173
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_15
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5432
+        width: 267
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_16
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 5498
+        width: 168
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_17
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 5447
+        width: 171
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_18
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 5349
+        width: 123
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_19
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 5585
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5313
+        width: 172
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_21
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 5213
+        width: 120
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 5207
+        width: 426
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_23
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 5339
+        width: 121
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_24
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 5414
+        width: 297
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5069
+        width: 170
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_26
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4971
+        width: 128
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_27
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 4982
+        width: 427
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_28
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4982
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_29
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 5093
+        width: 33
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_30
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 4880
+        width: 126
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_31
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 4976
+        width: 126
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_32
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4943
+        width: 167
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4856
+        width: 163
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4967
+        width: 33
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_35
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 4964
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_36
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 4850
+        width: 129
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_37
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4817
+        width: 168
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_38
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 4874
+        width: 132
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4631
+        width: 173
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_40
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4757
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_41
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4748
+        width: 135
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_42
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 4588
+        width: 291
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_43
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 4667
+        width: 171
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_44
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 4568
+        width: 120
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_45
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 4561
+        width: 264
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_46
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 4634
+        width: 171
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4426
+        width: 170
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_48
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4532
+        width: 134
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4552
+        width: 138
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_50
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 4420
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_51
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 4384
+        width: 167
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_52
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 4444
+        width: 162
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_53
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 4553
+        width: 35
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_54
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 4345
+        width: 120
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_55
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 4337
+        width: 264
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_56
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 4411
+        width: 170
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_57
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4526
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4201
+        width: 173
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 4327
+        width: 129
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_60
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 4318
+        width: 138
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_61
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 4159
+        width: 291
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_62
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 4201
+        width: 174
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_63
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 4159
+        width: 291
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_64
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4102
+        width: 134
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_65
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4123
+        width: 138
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_66
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 4102
+        width: 132
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_67
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 4123
+        width: 141
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_68
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 4096
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_69
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 4096
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_70
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3745
+        width: 96
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_71
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 3838
+        width: 87
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_72
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 3781
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_73
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3877
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3667
+        width: 84
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_75
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3562
+        width: 96
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_76
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3658
+        width: 78
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_77
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 3709
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_78
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3603
+        width: 101
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_79
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3700
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3340
+        width: 97
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_81
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3400
+        width: 87
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_82
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3565
+        width: 96
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3208
+        width: 97
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_84
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3274
+        width: 98
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3382
+        width: 99
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_86
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3316
+        width: 258
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_87
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 3055
+        width: 342
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_88
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3163
+        width: 87
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_89
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3202
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_90
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 3247
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2991
+        width: 95
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_92
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3031
+        width: 87
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_93
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3031
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_94
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3070
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_95
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2859
+        width: 186
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2553
+        width: 95
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_97
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2871
+        width: 93
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_98
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2769
+        width: 95
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_99
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2658
+        width: 189
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_100
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2878
+        width: 94
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_101
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2814
+        width: 291
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_102
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 2577
+        width: 369
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_103
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2631
+        width: 78
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_104
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2724
+        width: 135
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_105
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 2706
+        width: 131
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_106
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 2698
+        width: 93
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_107
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 2755
+        width: 781
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2398
+        width: 266
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_109
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2592
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_110
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 2493
+        width: 84
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_111
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2535
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_112
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2535
+        width: 96
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_113
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2535
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_114
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 2574
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_115
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 2049
+        width: 414
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2155
+        width: 170
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_117
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2301
+        width: 128
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_118
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2310
+        width: 428
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_119
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2286
+        width: 116
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_120
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 2209
+        width: 198
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_121
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 2344
+        width: 168
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_122
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 2259
+        width: 162
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_123
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2058
+        width: 123
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_124
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2295
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_125
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2049
+        width: 114
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_126
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 2049
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_127
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 2121
+        width: 296
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_128
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2049
+        width: 312
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_129
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 2163
+        width: 165
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_130
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1704
+        width: 159
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_131
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1813
+        width: 39
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_132
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1608
+        width: 123
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_133
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1671
+        width: 297
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_134
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1815
+        width: 174
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_135
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1484
+        width: 204
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_136
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1713
+        width: 269
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_137
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1779
+        width: 168
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_138
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1596
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_139
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1587
+        width: 162
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_140
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1696
+        width: 33
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_141
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1579
+        width: 128
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_142
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1548
+        width: 168
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_143
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1041
+        width: 993
+        height: 561
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_144
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1343
+        width: 162
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_145
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1454
+        width: 33
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_146
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 1476
+        width: 132
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_147
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1337
+        width: 129
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_148
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 1304
+        width: 168
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_149
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1244
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_150
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 1234
+        width: 135
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_151
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1040
+        width: 316
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_152
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 948
+        width: 171
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_153
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 849
+        width: 129
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_154
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 944
+        width: 123
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_155
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 908
+        width: 165
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 1007
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_157
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 695
+        width: 171
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_158
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 842
+        width: 135
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_159
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 596
+        width: 129
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_160
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 590
+        width: 138
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_161
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 689
+        width: 123
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_162
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 653
+        width: 165
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_163
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 233
+        width: 1173
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_164
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 110
+        width: 162
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_165
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 221
+        width: 36
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_166
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 8
+        width: 126
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_167
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 104
+        width: 126
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_168
+      rect:
+        serializedVersion: 2
+        x: 1655
+        y: 71
+        width: 168
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 243
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_170
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 50
+        width: 200
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_171
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 35
+        width: 206
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Clip Joint Calamity_172
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 0
+        width: 131
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

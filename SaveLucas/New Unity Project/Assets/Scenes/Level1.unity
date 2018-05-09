@@ -644,9 +644,9 @@ GameObject:
   - component: {fileID: 490323840}
   - component: {fileID: 490323839}
   - component: {fileID: 490323838}
-  - component: {fileID: 490323837}
   - component: {fileID: 490323842}
   - component: {fileID: 490323843}
+  - component: {fileID: 490323837}
   m_Layer: 0
   m_Name: Lucas
   m_TagString: Untagged
@@ -838,7 +838,7 @@ AudioSource:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 490323836}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: dea42240903ff433eb6e45e73cc0892b, type: 3}

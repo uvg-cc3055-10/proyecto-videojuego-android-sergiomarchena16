@@ -20,7 +20,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4118154964341902}
   - component: {fileID: 212630836977929730}
-  - component: {fileID: 114146128444481084}
+  - component: {fileID: 114141179332524396}
   m_Layer: 0
   m_Name: laser1
   m_TagString: Untagged
@@ -41,7 +41,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &114146128444481084
+--- !u!114 &114141179332524396
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -49,10 +49,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1909442917703424}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 84becfe0a74844d5ebb968e4da4badbd, type: 3}
+  m_Script: {fileID: 11500000, guid: fbe76655d6009480e8c3c5c7cc7e07de, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  direccion: {x: 0, y: 0, z: 0}
 --- !u!212 &212630836977929730
 SpriteRenderer:
   m_ObjectHideFlags: 1

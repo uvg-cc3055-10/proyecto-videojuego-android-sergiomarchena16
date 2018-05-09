@@ -12,6 +12,7 @@ public class Lucas : MonoBehaviour {
 	private bool facingRight = true;
 	Animator anim;
 	private bool salto, shoot;
+	private float speedo = 10;
 
 	public GameObject laser1;
 
@@ -42,12 +43,14 @@ public class Lucas : MonoBehaviour {
 
 		if (Input.GetButtonDown("Jump")) {
 			rb2d.AddForce(Vector2.up*jumpForce);
-			anim.SetBool ("salto", true);
+			anim.SetTrigger ("salto2");
+			speedo = speedo + 1;
 		}
 
 		if (Input.GetButtonDown("Fire1")){
 			//Debug.Log("Bang");
-			anim.SetBool ("shoot", true);
+			anim.SetTrigger ("shoot2");
+			speedo = speedo + 1;
 			Instantiate(laser1, transform.position, Quaternion.identity);
 
 		}

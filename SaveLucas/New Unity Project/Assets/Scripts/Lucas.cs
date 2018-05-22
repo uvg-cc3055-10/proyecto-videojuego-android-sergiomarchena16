@@ -12,7 +12,9 @@ public class Lucas : MonoBehaviour {
 	private bool facingRight = true;
 	Animator anim;
 	private bool salto, shoot;
-	private float speedo = 10;
+	public GameObject leftBull, rightBull;
+	Transform firePos;
+//	private float speedo = 10;
 
 	public GameObject laser1;
 
@@ -24,14 +26,14 @@ public class Lucas : MonoBehaviour {
 		rb2d = GetComponent<Rigidbody2D>();
 		sr = GetComponent<SpriteRenderer>();
 		anim = GetComponent<Animator>();
-		anim.SetBool ("salto", false);
 		aux = GetComponent<AudioSource>();
 		aux.Play();
+		firePos = transform.Find("firePos");
 	}
 
 	// Update is called once per frame
 	void Update () {
-		
+
 		float move = Input.GetAxis("Horizontal");
 		if (move != 0) {
 			rb2d.transform.Translate(new Vector3(1, 0, 0) * move * speed * Time.deltaTime);
@@ -44,16 +46,30 @@ public class Lucas : MonoBehaviour {
 		if (Input.GetButtonDown("Jump")) {
 			rb2d.AddForce(Vector2.up*jumpForce);
 			anim.SetTrigger ("salto2");
-			speedo = speedo + 1;
+			//speedo = speedo + 1;
 		}
 
 		if (Input.GetButtonDown("Fire1")){
 			//Debug.Log("Bang");
 			anim.SetTrigger ("shoot2");
-			speedo = speedo + 1;
-			Instantiate(laser1, transform.position, Quaternion.identity);
+			fire ();
+			//speedo = speedo + 1;
+//			if (facingRight == true) {
+//				Instantiate (laser1, transform.position, Quaternion.identity);
+//			} else if (facingRight == false) {
+//				Instantiate(laser1, transform.position , Quaternion.identity);
+//			}
 
 		}
 
+	}
+
+	void fire(){
+		if (facingRight) {
+			Instantiate (rightBull, firePos.position, Quaternion.identity); 
+		}
+		if (!facingRight) {
+			Instantiate (leftBull, firePos.position, Quaternion.identity);
+		}
 	}
 }

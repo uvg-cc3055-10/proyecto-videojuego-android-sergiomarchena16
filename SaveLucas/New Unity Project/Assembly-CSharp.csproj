@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\bulletCtrl.cs" />
      <Compile Include="Assets\Scripts\Laser1.cs" />
      <Compile Include="Assets\Scripts\Lucas.cs" />
  <Reference Include="UnityEngine.UI">

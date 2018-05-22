@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Laser1 : MonoBehaviour {
 
-	float lifeTime=3;
+	float lifeTime=2;
 
 	// Use this for initialization
 	void Start () {

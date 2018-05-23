@@ -15,11 +15,8 @@ public class Lucas : MonoBehaviour {
 	public GameObject leftBull, rightBull;
 	Transform firePos;
 	Transform firePosL;
-//	private float speedo = 10;
-
+	//	private float speedo = 10;
 	public GameObject laser1;
-
-
 	AudioSource aux;
 
 	// Use this for initialization

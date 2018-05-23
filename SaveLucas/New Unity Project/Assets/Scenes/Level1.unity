@@ -1319,7 +1319,7 @@ GameObject:
   - component: {fileID: 661606011}
   m_Layer: 0
   m_Name: Enemy1
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1350,7 +1350,7 @@ CircleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.88379633, y: 1.4700776}
@@ -1375,7 +1375,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 5
+  m_Constraints: 7
 --- !u!212 &661606013
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1447,6 +1447,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   acorn: {fileID: 1502653022890892, guid: bca45bc8498c9497d93389793fe22509, type: 2}
   totalLife: 10
+  explosion: {fileID: 1145082015488364, guid: 8c7d5167909e9476d8a7b020df97dfc7, type: 2}
 --- !u!1 &730761459
 GameObject:
   m_ObjectHideFlags: 0
@@ -2741,7 +2742,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1564043108}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.72, y: -0.76, z: 0}
+  m_LocalPosition: {x: -0.21, y: -0.76, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 661606014}

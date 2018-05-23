@@ -4,16 +4,19 @@ using UnityEngine;
 
 public class Enemy1 : MonoBehaviour {
 	
-	float lifeTime = 3;
+	float lifeTime;
 	Animator anim;
 	Transform firePosE;
 	public GameObject acorn;
 	public float totalLife=10;
+	public GameObject explosion;
+	float time2 = 3f;
 
 	// Use this for initialization
 	void Start () {
 		anim = GetComponent<Animator>();
 		firePosE = transform.Find("firePosE");
+		lifeTime = Random.Range (2, 5);
 	}
 	
 	// Update is called once per frame
@@ -23,7 +26,7 @@ public class Enemy1 : MonoBehaviour {
 		if (lifeTime < 0) {
 			anim.SetTrigger("time");
 			fire ();
-			lifeTime = 5;
+			lifeTime = Random.Range (2, 5);;
 		}
 	
 	}
@@ -31,11 +34,10 @@ public class Enemy1 : MonoBehaviour {
 		Instantiate (acorn, firePosE.position, Quaternion.identity); 
 	}
 
-	void OnCollisionTrigger (Collision col)
+	void OnCollisionEnter2D (Collision2D col)
 	{
-		if(col.gameObject.tag == "die")
-		{
-			col.gameObject.SetActive (false);
+		if(col.gameObject.CompareTag("die")) {
+			Instantiate (explosion, col.gameObject.transform.position, Quaternion.identity);
 		}
 	}
 }

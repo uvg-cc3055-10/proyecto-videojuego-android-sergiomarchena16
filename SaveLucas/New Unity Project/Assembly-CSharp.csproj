@@ -52,8 +52,12 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\bulletCtrl.cs" />
+     <Compile Include="Assets\Scripts\Enemy1.cs" />
+     <Compile Include="Assets\Scripts\EnemyBullet.cs" />
      <Compile Include="Assets\Scripts\Laser1.cs" />
      <Compile Include="Assets\Scripts\Lucas.cs" />
+     <None Include="Assets\Sprites\cyberpunk-street-files\public-license.txt" />
+     <None Include="Assets\Sprites\Cagney Carnation\Credits.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

@@ -14,6 +14,7 @@ public class Lucas : MonoBehaviour {
 	private bool salto, shoot;
 	public GameObject leftBull, rightBull;
 	Transform firePos;
+	Transform firePosL;
 //	private float speedo = 10;
 
 	public GameObject laser1;
@@ -29,6 +30,7 @@ public class Lucas : MonoBehaviour {
 		aux = GetComponent<AudioSource>();
 		aux.Play();
 		firePos = transform.Find("firePos");
+		firePosL = transform.Find ("firePosL");
 	}
 
 	// Update is called once per frame
@@ -44,8 +46,8 @@ public class Lucas : MonoBehaviour {
 		anim.SetFloat("speed", Mathf.Abs(move));
 
 		if (Input.GetButtonDown("Jump")) {
-			rb2d.AddForce(Vector2.up*jumpForce);
 			anim.SetTrigger ("salto2");
+			rb2d.AddForce (Vector2.up * jumpForce);
 			//speedo = speedo + 1;
 		}
 
@@ -69,7 +71,7 @@ public class Lucas : MonoBehaviour {
 			Instantiate (rightBull, firePos.position, Quaternion.identity); 
 		}
 		if (!facingRight) {
-			Instantiate (leftBull, firePos.position, Quaternion.identity);
+			Instantiate (leftBull, firePosL.position, Quaternion.identity);
 		}
 	}
 }

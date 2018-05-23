@@ -24,8 +24,8 @@ GameObject:
   - component: {fileID: 114717932383691536}
   - component: {fileID: 50810262052754058}
   m_Layer: 0
-  m_Name: leftBullet
-  m_TagString: Untagged
+  m_Name: rightBullet
+  m_TagString: die
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -89,7 +89,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 62f80e530c9eb4db897cc3009ebfe994, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: {x: -7, y: 0}
+  speed: {x: 7, y: 0}
 --- !u!212 &212654020506553598
 SpriteRenderer:
   m_ObjectHideFlags: 1

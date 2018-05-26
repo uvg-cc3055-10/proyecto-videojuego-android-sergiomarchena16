@@ -18,6 +18,8 @@ public class Lucas : MonoBehaviour {
 	//	private float speedo = 10;
 	public GameObject laser1;
 	AudioSource aux;
+	public float life=2;
+	public Text lives;
 
 	// Use this for initialization
 	void Start () {
@@ -28,6 +30,7 @@ public class Lucas : MonoBehaviour {
 		aux.Play();
 		firePos = transform.Find("firePos");
 		firePosL = transform.Find ("firePosL");
+		lives.text = "Lives: " + GameCtlr.instance.lives.ToString ();
 	}
 
 	// Update is called once per frame
@@ -69,6 +72,20 @@ public class Lucas : MonoBehaviour {
 		}
 		if (!facingRight) {
 			Instantiate (leftBull, firePosL.position, Quaternion.identity);
+		}
+	}
+
+	void OnCollisionEnter2D (Collision2D col)
+	{
+		if(col.gameObject.CompareTag("die")) {
+			if (life <= 2 && life > 0) {
+				GameCtlr.instance.lives--;
+				lives.text = "Lives: " + GameCtlr.instance.lives.ToString ();
+				life = life - 1;
+			} else if (life == 0) {
+				FindObjectOfType<GameCtlr> ().EndGame ();
+				Destroy (this.gameObject);
+			}
 		}
 	}
 }

@@ -11,7 +11,7 @@ public class Enemy1 : MonoBehaviour {
 	public GameObject acorn;
 	public float totalLife=10;
 	public GameObject explosion;
-	float time2 = 3f;
+//	float time2 = 3f;
 	float life = 30;
 	public Text scoreText;
 

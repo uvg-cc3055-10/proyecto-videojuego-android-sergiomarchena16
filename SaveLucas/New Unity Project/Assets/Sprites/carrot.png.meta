@@ -1,0 +1,1898 @@
+fileFormatVersion: 2
+guid: 4020f2955331748bea942fac67acabfe
+timeCreated: 1527370442
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: carrot_0
+    21300002: carrot_1
+    21300004: carrot_2
+    21300006: carrot_3
+    21300008: carrot_4
+    21300010: carrot_5
+    21300012: carrot_6
+    21300014: carrot_7
+    21300016: carrot_8
+    21300018: carrot_9
+    21300020: carrot_10
+    21300022: carrot_11
+    21300024: carrot_12
+    21300026: carrot_13
+    21300028: carrot_14
+    21300030: carrot_15
+    21300032: carrot_16
+    21300034: carrot_17
+    21300036: carrot_18
+    21300038: carrot_19
+    21300040: carrot_20
+    21300042: carrot_21
+    21300044: carrot_22
+    21300046: carrot_23
+    21300048: carrot_24
+    21300050: carrot_25
+    21300052: carrot_26
+    21300054: carrot_27
+    21300056: carrot_28
+    21300058: carrot_29
+    21300060: carrot_30
+    21300062: carrot_31
+    21300064: carrot_32
+    21300066: carrot_33
+    21300068: carrot_34
+    21300070: carrot_35
+    21300072: carrot_36
+    21300074: carrot_37
+    21300076: carrot_38
+    21300078: carrot_39
+    21300080: carrot_40
+    21300082: carrot_41
+    21300084: carrot_42
+    21300086: carrot_43
+    21300088: carrot_44
+    21300090: carrot_45
+    21300092: carrot_46
+    21300094: carrot_47
+    21300096: carrot_48
+    21300098: carrot_49
+    21300100: carrot_50
+    21300102: carrot_51
+    21300104: carrot_52
+    21300106: carrot_53
+    21300108: carrot_54
+    21300110: carrot_55
+    21300112: carrot_56
+    21300114: carrot_57
+    21300116: carrot_58
+    21300118: carrot_59
+    21300120: carrot_60
+    21300122: carrot_61
+    21300124: carrot_62
+    21300126: carrot_63
+    21300128: carrot_64
+    21300130: carrot_65
+    21300132: carrot_66
+    21300134: carrot_67
+    21300136: carrot_68
+    21300138: carrot_69
+    21300140: carrot_70
+    21300142: carrot_71
+    21300144: carrot_72
+    21300146: carrot_73
+    21300148: carrot_74
+    21300150: carrot_75
+    21300152: carrot_76
+    21300154: carrot_77
+    21300156: carrot_78
+    21300158: carrot_79
+    21300160: carrot_80
+    21300162: carrot_81
+    21300164: carrot_82
+    21300166: carrot_83
+    21300168: carrot_84
+    21300170: carrot_85
+    21300172: carrot_86
+    21300174: carrot_87
+    21300176: carrot_88
+    21300178: carrot_89
+    21300180: carrot_90
+    21300182: carrot_91
+    21300184: carrot_92
+    21300186: carrot_93
+    21300188: carrot_94
+    21300190: carrot_95
+    21300192: carrot_96
+    21300194: carrot_97
+    21300196: carrot_98
+    21300198: carrot_99
+    21300200: carrot_100
+    21300202: carrot_101
+    21300204: carrot_102
+    21300206: carrot_103
+    21300208: carrot_104
+    21300210: carrot_105
+    21300212: carrot_106
+    21300214: carrot_107
+    21300216: carrot_108
+    21300218: carrot_109
+    21300220: carrot_110
+    21300222: carrot_111
+    21300224: carrot_112
+    21300226: carrot_113
+    21300228: carrot_114
+    21300230: carrot_115
+    21300232: carrot_116
+    21300234: carrot_117
+    21300236: carrot_118
+    21300238: carrot_119
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carrot_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6608.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 6608.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 6608.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_3
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 6608.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_4
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 6608.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_5
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 6608.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_6
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 6608.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_7
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 6608.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6137
+        width: 595
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_9
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 6137
+        width: 599
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_10
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 6137
+        width: 596
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_11
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 6137
+        width: 578
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_12
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 6137
+        width: 600
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_13
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 6137
+        width: 600
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_14
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 6137
+        width: 600
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_15
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 6137
+        width: 600
+        height: 557
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5594
+        width: 595
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_17
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 5587
+        width: 614
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_18
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 5583
+        width: 585
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_19
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 5594
+        width: 589
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_20
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 5594
+        width: 578
+        height: 543
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_21
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 5591
+        width: 575
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_22
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 5587
+        width: 583
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_23
+      rect:
+        serializedVersion: 2
+        x: 4184
+        y: 5591
+        width: 609
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5039
+        width: 595
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_25
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 5039
+        width: 610
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_26
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 5043
+        width: 587
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_27
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 5035
+        width: 591
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_28
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 5039
+        width: 575
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_29
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 5039
+        width: 575
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_30
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 5039
+        width: 590
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_31
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 5035
+        width: 590
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4482
+        width: 595
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_33
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 4720.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_34
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 4720.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_35
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 4720.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_36
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 4720.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_37
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 4720.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_38
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 4720.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_39
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 4720.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4248.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_41
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 4248.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_42
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 4248.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_43
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 4248.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_44
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 4248.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_45
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 4248.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_46
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 4248.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_47
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 4248.933
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3776.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_49
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3776.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_50
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3776.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_51
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3776.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_52
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3776.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_53
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 3776.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_54
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 3776.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_55
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 3776.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3304.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_57
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 3304.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_58
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 3304.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_59
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 3304.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_60
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3304.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_61
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 3304.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_62
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 3304.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_63
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 3304.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2832.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_65
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2832.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_66
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 2832.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_67
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 2832.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_68
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2832.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_69
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 2832.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_70
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 2832.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_71
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 2832.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2285
+        width: 458
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_73
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2290
+        width: 444
+        height: 510
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_74
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 2298
+        width: 452
+        height: 505
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_75
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2295
+        width: 446
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_76
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 2282
+        width: 436
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_77
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 2285
+        width: 455
+        height: 548
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_78
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 2290
+        width: 442
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_79
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 2360.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1888.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_81
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1888.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_82
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1888.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_83
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1888.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_84
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1888.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_85
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 1888.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_86
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 1888.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_87
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 1888.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_89
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1416.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_90
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1416.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_91
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1416.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_92
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1416.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_93
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 1416.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_94
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 1416.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_95
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 1416.9333
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944.93335
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_97
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 944.93335
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_98
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 944.93335
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_99
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 944.93335
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_100
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 944.93335
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_101
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 944.93335
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_102
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 944.93335
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_103
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 944.93335
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472.93332
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_105
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 472.93332
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_106
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 472.93332
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_107
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 472.93332
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_108
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 472.93332
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_109
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 472.93332
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_110
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 472.93332
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_111
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 472.93332
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.9333191
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_113
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 0.9333191
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_114
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 0.9333191
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_115
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 0.9333191
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_116
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 0.9333191
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_117
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 0.9333191
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_118
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 0.9333191
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: carrot_119
+      rect:
+        serializedVersion: 2
+        x: 4193
+        y: 0.9333191
+        width: 599.875
+        height: 472.06668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

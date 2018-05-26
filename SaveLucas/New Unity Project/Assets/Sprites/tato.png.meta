@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: 005745735a0074ef2830b0d18632337c
+timeCreated: 1527371876
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: tato_0
+    21300002: tato_1
+    21300004: tato_2
+    21300006: tato_3
+    21300008: tato_4
+    21300010: tato_5
+    21300012: tato_6
+    21300014: tato_7
+    21300016: tato_8
+    21300018: tato_9
+    21300020: tato_10
+    21300022: tato_11
+    21300024: tato_12
+    21300026: tato_13
+    21300028: tato_14
+    21300030: tato_15
+    21300032: tato_16
+    21300034: tato_17
+    21300036: tato_18
+    21300038: tato_19
+    21300040: tato_20
+    21300042: tato_21
+    21300044: tato_22
+    21300046: tato_23
+    21300048: tato_24
+    21300050: tato_25
+    21300052: tato_26
+    21300054: tato_27
+    21300056: tato_28
+    21300058: tato_29
+    21300060: tato_30
+    21300062: tato_31
+    21300064: tato_32
+    21300066: tato_33
+    21300068: tato_34
+    21300070: tato_35
+    21300072: tato_36
+    21300074: tato_37
+    21300076: tato_38
+    21300078: tato_39
+    21300080: tato_40
+    21300082: tato_41
+    21300084: tato_42
+    21300086: tato_43
+    21300088: tato_44
+    21300090: tato_45
+    21300092: tato_46
+    21300094: tato_47
+    21300096: tato_48
+    21300098: tato_49
+    21300100: tato_50
+    21300102: tato_51
+    21300104: tato_52
+    21300106: tato_53
+    21300108: tato_54
+    21300110: tato_55
+    21300112: tato_56
+    21300114: tato_57
+    21300116: tato_58
+    21300118: tato_59
+    21300120: tato_60
+    21300122: tato_61
+    21300124: tato_62
+    21300126: tato_63
+    21300128: tato_64
+    21300130: tato_65
+    21300132: tato_66
+    21300134: tato_67
+    21300136: tato_68
+    21300138: tato_69
+    21300140: tato_70
+    21300142: tato_71
+    21300144: tato_72
+    21300146: tato_73
+    21300148: tato_74
+    21300150: tato_75
+    21300152: tato_76
+    21300154: tato_77
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tato_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6497
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 6497
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 6497
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_3
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 6497
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_4
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 6497
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_5
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 6497
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5986
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 5986
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_8
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 5986
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_9
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 5986
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_10
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 5986
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_11
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 5986
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5475
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_13
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 5475
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_14
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 5475
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_15
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 5475
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_16
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 5475
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_17
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 5475
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4964
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_19
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 4964
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_20
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 4964
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_21
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 4964
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_22
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 4964
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_23
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 4964
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4453
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 4453
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_26
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 4453
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_27
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 4453
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_28
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 4453
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_29
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 4453
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3942
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_31
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3942
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_32
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 3942
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_33
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3942
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_34
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 3942
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_35
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 3942
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3431
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_37
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3431
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_38
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 3431
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_39
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 3431
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_40
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 3431
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_41
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 3431
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2920
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2920
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_44
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2920
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_45
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2920
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_46
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2920
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_47
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 2920
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2409
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_49
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 2409
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_50
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2409
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 2409
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_52
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 2409
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_53
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 2409
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1898
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_55
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1898
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_56
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1898
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_57
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1898
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_58
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1898
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_59
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 1898
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1387
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_61
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1387
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_62
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1387
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_63
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 1387
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_64
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1387
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_65
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 1387
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 876
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_67
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 876
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_68
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 876
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_69
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 876
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_70
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 876
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_71
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 876
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_73
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 365
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_74
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 365
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_75
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 365
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_76
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 365
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: tato_77
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 365
+        width: 524
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

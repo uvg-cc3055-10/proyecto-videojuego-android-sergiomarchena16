@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class EnemyBullet : MonoBehaviour {
-	float lifeTime = 3;
+	float lifeTime = 5;
 
 	// Use this for initialization
 	void Start (){

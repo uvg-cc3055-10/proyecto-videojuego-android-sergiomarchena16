@@ -14,6 +14,7 @@ public class Enemy1 : MonoBehaviour {
 //	float time2 = 3f;
 	float life = 30;
 	public Text scoreText;
+	public AudioSource aux;
 
 	// Use this for initialization
 	void Start () {
@@ -21,6 +22,7 @@ public class Enemy1 : MonoBehaviour {
 		firePosE = transform.Find("firePosE");
 		lifeTime = Random.Range (2, 5);
 		scoreText.text = "Score: " + GameCtlr.instance.score.ToString ();
+		aux = GetComponent<AudioSource> ();
 	}
 	
 	// Update is called once per frame

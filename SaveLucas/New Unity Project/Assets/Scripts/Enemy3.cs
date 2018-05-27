@@ -13,7 +13,7 @@ public class Enemy3 : MonoBehaviour {
 //	public float totalLife=10;
 	public GameObject explosion;
 	//	float time2 = 3f;
-	float life = 5;
+	float life = 60;
 	public Text scoreText;
 	public AudioSource aux;
 
@@ -45,14 +45,14 @@ public class Enemy3 : MonoBehaviour {
 	void OnCollisionEnter2D (Collision2D col)
 	{
 		if(col.gameObject.CompareTag("die")) {
-			if (life <= 5 && life > 0) {
+			if (life <= 60 && life > 0) {
 				Instantiate (explosion, col.gameObject.transform.position, Quaternion.identity);
 				GameCtlr.instance.score++;
 				scoreText.text = "Score: " + GameCtlr.instance.score.ToString ();
 				life = life - 1;
 			} else if (life == 0) {
 				Destroy (this.gameObject);
-				//pasar a level 3
+				//pasar a menu
 			}
 		}
 	}

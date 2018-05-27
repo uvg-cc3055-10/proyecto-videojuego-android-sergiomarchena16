@@ -83,6 +83,7 @@ public class Lucas : MonoBehaviour {
 				GameCtlr.instance2.lives2--;
 				lives.text = "Lives: " + GameCtlr.instance2.lives2.ToString ();
 				life = life - 1;
+				Destroy (col.gameObject);
 			} else if (life == 0) {
 				FindObjectOfType<GameCtlr> ().EndGame ();
 				Destroy (this.gameObject);

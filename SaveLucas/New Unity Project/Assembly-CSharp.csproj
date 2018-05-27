@@ -59,7 +59,6 @@
      <Compile Include="Assets\Scripts\EnemyBullet.cs" />
      <Compile Include="Assets\Scripts\explo.cs" />
      <Compile Include="Assets\Scripts\GameCtlr.cs" />
-     <Compile Include="Assets\Scripts\Laser1.cs" />
      <Compile Include="Assets\Scripts\Lucas.cs" />
      <None Include="Assets\Sprites\cyberpunk-street-files\public-license.txt" />
      <None Include="Assets\Sprites\Cagney Carnation\Credits.txt" />

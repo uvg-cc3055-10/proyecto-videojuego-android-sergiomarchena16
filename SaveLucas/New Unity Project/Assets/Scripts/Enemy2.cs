@@ -10,10 +10,10 @@ public class Enemy2 : MonoBehaviour {
 	Animator anim;
 	Transform firePosE;
 	public GameObject acorn;
-	public float totalLife=10;
+	//public float totalLife=10;
 	public GameObject explosion;
 	//	float time2 = 3f;
-	float life = 10;
+	float life = 45;
 	public Text scoreText;
 	public AudioSource aux;
 
@@ -44,7 +44,7 @@ public class Enemy2 : MonoBehaviour {
 	void OnCollisionEnter2D (Collision2D col)
 	{
 		if(col.gameObject.CompareTag("die")) {
-			if (life <= 10 && life > 0) {
+			if (life <= 45 && life > 0) {
 				Instantiate (explosion, col.gameObject.transform.position, Quaternion.identity);
 				GameCtlr.instance.score++;
 				scoreText.text = "Score: " + GameCtlr.instance.score.ToString ();

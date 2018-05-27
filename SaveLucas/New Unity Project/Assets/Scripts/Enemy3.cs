@@ -52,7 +52,7 @@ public class Enemy3 : MonoBehaviour {
 				life = life - 1;
 			} else if (life == 0) {
 				Destroy (this.gameObject);
-				//pasar a menu
+				SceneManager.LoadScene ("Menu");
 			}
 		}
 	}

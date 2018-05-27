@@ -691,6 +691,7 @@ GameObject:
   m_Component:
   - component: {fileID: 606405460}
   - component: {fileID: 606405459}
+  - component: {fileID: 606405461}
   m_Layer: 0
   m_Name: GameCtlr
   m_TagString: Untagged
@@ -711,6 +712,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   score: 0
   lives: 2
+  lives2: 2
 --- !u!4 &606405460
 Transform:
   m_ObjectHideFlags: 0
@@ -724,6 +726,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &606405461
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 606405458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e7fe5643027b4eff96729d02f4a2f11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &609713268
 GameObject:
   m_ObjectHideFlags: 0
@@ -1277,7 +1290,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   acorn: {fileID: 1158106319407488, guid: 35b475c877a16447ba46d1447c6df5ee, type: 2}
-  totalLife: 10
   explosion: {fileID: 1145082015488364, guid: 8c7d5167909e9476d8a7b020df97dfc7, type: 2}
   scoreText: {fileID: 446585754}
   aux: {fileID: 0}

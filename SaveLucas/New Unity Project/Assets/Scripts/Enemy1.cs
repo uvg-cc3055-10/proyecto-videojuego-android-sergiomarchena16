@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Enemy1 : MonoBehaviour {
 	
@@ -50,6 +51,7 @@ public class Enemy1 : MonoBehaviour {
 				life = life - 1;
 			} else if (life == 0) {
 				Destroy (this.gameObject);
+				SceneManager.LoadScene ("Level2");
 			}
 		}
 	}

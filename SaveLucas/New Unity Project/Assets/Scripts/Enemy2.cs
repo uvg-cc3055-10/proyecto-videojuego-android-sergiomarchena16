@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class Enemy2 : MonoBehaviour {
 
@@ -43,13 +44,15 @@ public class Enemy2 : MonoBehaviour {
 	void OnCollisionEnter2D (Collision2D col)
 	{
 		if(col.gameObject.CompareTag("die")) {
-			if (life <= 30 && life > 0) {
+			if (life <= 10 && life > 0) {
 				Instantiate (explosion, col.gameObject.transform.position, Quaternion.identity);
 				GameCtlr.instance.score++;
 				scoreText.text = "Score: " + GameCtlr.instance.score.ToString ();
 				life = life - 1;
 			} else if (life == 0) {
 				Destroy (this.gameObject);
+				SceneManager.LoadScene ("Level3");
+
 			}
 		}
 	}

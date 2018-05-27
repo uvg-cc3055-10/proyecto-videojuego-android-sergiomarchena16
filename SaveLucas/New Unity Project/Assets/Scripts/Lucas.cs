@@ -25,12 +25,13 @@ public class Lucas : MonoBehaviour {
 	void Start () {
 		rb2d = GetComponent<Rigidbody2D>();
 		sr = GetComponent<SpriteRenderer>();
-		anim = GetComponent<Animator>();
+		anim = GetComponent<Animator>(); 
 		aux = GetComponent<AudioSource>();
 		aux.Play();
 		firePos = transform.Find("firePos");
 		firePosL = transform.Find ("firePosL");
-		lives.text = "Lives: " + GameCtlr.instance.lives.ToString ();
+//		lives.text = "Lives: " + GameCtlr.instance2.lives2.ToString ();
+		lives.text = "Lives: " + FindObjectOfType<GameCtlr> ().lives.ToString ();
 	}
 
 	// Update is called once per frame
@@ -79,8 +80,8 @@ public class Lucas : MonoBehaviour {
 	{
 		if(col.gameObject.CompareTag("die")) {
 			if (life <= 2 && life > 0) {
-				GameCtlr.instance.lives--;
-				lives.text = "Lives: " + GameCtlr.instance.lives.ToString ();
+				GameCtlr.instance2.lives2--;
+				lives.text = "Lives: " + GameCtlr.instance2.lives2.ToString ();
 				life = life - 1;
 			} else if (life == 0) {
 				FindObjectOfType<GameCtlr> ().EndGame ();

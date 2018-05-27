@@ -9,11 +9,14 @@ public class GameCtlr : MonoBehaviour {
 	bool ended=false;
 	public int score = 0;
 	public int lives = 2;
+	public int lives2 = 2;
 	public static GameCtlr instance;
+	public static GameCtlr instance2;
 
 	// Use this for initialization
 	void Start () {
 		instance = this;
+		instance2 = this;
 	}
 	
 	// Update is called once per frame
@@ -32,7 +35,6 @@ public class GameCtlr : MonoBehaviour {
 
 	void Restart(){
 		SceneManager.LoadScene ("Level1");
-		lives = 2;
 	}
 
 

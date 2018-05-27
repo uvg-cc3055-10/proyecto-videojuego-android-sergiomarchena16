@@ -202,7 +202,7 @@ GameObject:
   - component: {fileID: 210165507}
   m_Layer: 0
   m_Name: enemy3
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -305,11 +305,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 210165502}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d4bf94901d6ba418daf0bc4a03bec6f7, type: 3}
+  m_Script: {fileID: 11500000, guid: 0f5c239d7c93f4992901fab1324f1cc2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   acorn: {fileID: 1909442917703424, guid: bd9e97d27c5cd412da345c38e6776f5f, type: 2}
-  totalLife: 10
   explosion: {fileID: 1145082015488364, guid: 8c7d5167909e9476d8a7b020df97dfc7, type: 2}
   scoreText: {fileID: 446585754}
   aux: {fileID: 0}
@@ -1194,7 +1193,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1522962742}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.31, y: -0.25800002, z: 0}
+  m_LocalPosition: {x: 0.39, y: -0.25800002, z: 0}
   m_LocalScale: {x: 1.125, y: 1.125, z: 1}
   m_Children: []
   m_Father: {fileID: 210165505}
